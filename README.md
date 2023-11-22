@@ -1,7 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Hammaz! </h1>
+<h3>🌱 I’m currently pursuing my Masters in Cybersecurity from Saint Louis University and my expected graduation date is May 2025</h3>
+<h3>⚡ Fun fact: Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended</h3>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Securing Sanofi: Nessus Vulnerability Scan Project</b>
+  - <b>[Vulnerability Scan using Nessus Essentials](https://github.com/HammazAhmed2105/Nessus_Scan)</b>
+- <b>Hping3 Syn Flood Attack: Sandbox Experiment and Wireshark Analysis</b>
+  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Hping3-Attack-and-Pcap-Analysis) </b>
+- <b>Research Paper</b>
+  - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
+
+<h2>📺Certification</h2>
+
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
+- [ANZ Australia Cyber Security Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf)
+- [Google Data Analytics)](https://www.coursera.org/account/accomplishments/professional-cert/679HEM494MAY)
+- [SQL for Data Science)](https://www.coursera.org/account/accomplishments/verify/83AXFG3TRPPN)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/hammaz-ahmed-01005821a/
 
 <!--
-**HammazAhmed2105/HammazAhmed2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
