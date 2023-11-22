@@ -7,7 +7,7 @@
 - <b>Securing Sanofi: Nessus Vulnerability Scan Project</b>
   - <b>[Vulnerability Scan using Nessus Essentials](https://github.com/HammazAhmed2105/Nessus-Vulnerability-Scan)</b>
 - <b>Hping3 Syn Flood Attack: Sandbox Experiment and Wireshark Analysis</b>
-  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Hping3-Attack-and-Pcap-Analysis) </b>
+  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Hping3-Attack-and-Analysis-of-Pcap) </b>
 - <b>Research Paper</b>
   - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
 
