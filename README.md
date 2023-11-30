@@ -21,6 +21,8 @@
 <h2>📺YouTube Videos</h2>
 
 - [Nessus Vulnerability Scan Illustration](https://www.youtube.com/watch?v=EigSPR_5eWM&t=1s)
+- [CTF Challenges from Learn CTF](https://youtube.com/playlist?list=PLawVFF7r36HqLlLe6MLcJSaSbSrWw9h-o&si=b1AN6wldkWQcodQL)
+- [PICO CTF Challenges](https://youtube.com/playlist?list=PLawVFF7r36Hrcey5t73SXgb4XiEWUtjhl&si=cSNC1N4SawZBI_R6)
 
 <h2> 🤳 Connect with me:</h2>
 
