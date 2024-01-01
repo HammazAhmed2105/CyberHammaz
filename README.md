@@ -37,6 +37,11 @@
 
 [blog]: https://cyberasabeginner.blogspot.com/
 
+[<img align="left" alt="YourBlog | Blog" width="22px" src="https://example.com/path/to/your/blog-icon.png" />][blog]
+
+[blog]: https://malwareminds.blogspot.com/
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
