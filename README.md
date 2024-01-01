@@ -37,7 +37,7 @@
 
 [blog]: https://cyberasabeginner.blogspot.com/
 
-[<img align="left" alt="YourBlog | Blog" width="11px" src="https://example.com/path/to/your/blog-icon.png" />][blog]
+[<img align="left" alt="YourBlog | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
 
 [blog]: https://malwareminds.blogspot.com/
 <!--
