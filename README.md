@@ -11,7 +11,7 @@
 - <b>Research Paper</b>
   - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
 
-<h2>👨‍💻Malware Analysis Reports</h2>
+<h2>🤔Malware Analysis Reports</h2>
 - <b>[BeguileSoft](https://malwareminds.blogspot.com/2023/12/2019-05-02-traffic-analysis-answer-with.html)</b>
 
 <h2>👨‍💻Certification</h2>
