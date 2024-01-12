@@ -2,7 +2,7 @@
 <h3>🌱 I’m currently pursuing my Masters in Cybersecurity from Saint Louis University and my expected graduation date is May 2025</h3>
 <h3>⚡ Fun fact: Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended</h3>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects AMneet:</h2>
 
 - <b>Securing Sanofi: Nessus Vulnerability Scan Project</b>
   - <b>[Vulnerability Scan using Nessus Essentials](https://github.com/HammazAhmed2105/Nessus-Vulnerability-Scan)</b>
