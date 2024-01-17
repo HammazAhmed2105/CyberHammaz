@@ -13,7 +13,7 @@
 
 <h2>🤔Malware Analysis Reports</h2>
 - <b>Begiule Soft - Traffic Analysis Exercise</b>
-  - <b>[Recon-ng lab](https://malwareminds.blogspot.com/2023/12/2019-05-02-traffic-analysis-answer-with.html) </b>
+  - <b>(https://malwareminds.blogspot.com/2023/12/2019-05-02-traffic-analysis-answer-with.html) </b>
 
 
 - <b>[SteelCoffee](https://malwareminds.blogspot.com/2024/01/steelcoffee-traffic-analysis-exercise.html)</b>
