@@ -28,8 +28,8 @@
 
 <h2>📺LABS</h2>
 
-- <b>Recon-ng lab: Automated Domain Reconnaissance with Recon-ng</b>
-  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
+- <b>Automated Domain Reconnaissance with Recon-ng</b>
+  - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
