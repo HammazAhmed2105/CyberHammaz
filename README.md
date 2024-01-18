@@ -31,8 +31,8 @@
 - <b>Automated Domain Reconnaissance with Recon-ng</b>
   - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
 
-  - <b>Automated Domain Reconnaissance with Recon-ng</b>
-  - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
+  - <b>Packet Capture Lab with Tcp Dump</b>
+  - <b>[Tcp-Dump Lab](https://github.com/HammazAhmed2105/TCPDUMP) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
