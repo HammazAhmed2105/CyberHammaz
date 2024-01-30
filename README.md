@@ -8,7 +8,7 @@
 - 🤝 I’m currently working on my **Blue Team Level 1 Certification**
 - 👨‍💻 Checkout my Resume []
 
-- 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
+- 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](Malware Blog)
 - ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
 - 📫 Here is my portfolio, presented in website format [https://mycyberportfolio.netlify.app/](https://mycyberportfolio.netlify.app/)
 
