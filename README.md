@@ -6,7 +6,7 @@
 - 🌱 I’m  **CompTIA Security + Certified**
 
 - 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
-- 👨‍💻 Checkout my Resume [https://github.com/HammazAhmed2105/Resume_](https://github.com/HammazAhmed2105/Resume_)
+- 👨‍💻 Checkout my Resume 
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
