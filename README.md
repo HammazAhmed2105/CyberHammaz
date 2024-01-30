@@ -14,6 +14,28 @@
 - 📫 How to reach me **hammazahmed40@gmail.com**
 
 - ⚡ Fun fact **Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended**
+- <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Securing Sanofi: Nessus Vulnerability Scan Project</b>
+  - <b>[Vulnerability Scan using Nessus Essentials](https://github.com/HammazAhmed2105/Nessus-Vulnerability-Scan)</b>
+- <b>Hping3 Syn Flood Attack: Sandbox Experiment and Wireshark Analysis</b>
+  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Hping3-Attack-and-Analysis-of-Pcap) </b>
+- <b>Research Paper</b>
+  - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
+
+<h2>👨‍💻Certification</h2>
+
+- [CompTIA Security + Certification](https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
+- [ANZ Australia Cyber Security Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf)
+- [Google Data Analytics)](https://www.coursera.org/account/accomplishments/professional-cert/679HEM494MAY)
+- [SQL for Data Science)](https://www.coursera.org/account/accomplishments/verify/83AXFG3TRPPN)
+
+<h2>📺LABS</h2>
+
+  - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
+  - <b>[Tcp-Dump Lab](https://github.com/HammazAhmed2105/TCPDUMP) </b>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
