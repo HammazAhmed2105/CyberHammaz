@@ -8,6 +8,7 @@
 - 🤝 I’m currently working on my **Blue Team Level 1 Certification**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
+- ⚡ My artiles on CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
 
 - 📝 I regularly write articles on **Cybersecurity,InfoSec,Linux,Phishing Analysis**
 
