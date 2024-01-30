@@ -1,60 +1,23 @@
-<h1>Hi, I'm Hammaz! </h1>
-<h3>🌱 I’m currently pursuing my Masters in Cybersecurity from Saint Louis University and my expected graduation date is May 2025</h3>
-<h3>⚡ Fun fact: Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended</h3>
+<h1 align="center">Hi 👋, I'm Hammaz Ahmed</h1>
+<h3 align="center">A passionate Cybersecurity Professional and student who is currently pursuing my Masters in Cybersecurity from Saint Louis University and my expected graduation date is May 2025</h3>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammazahmed2105&label=Profile%20views&color=0e75b6&style=flat" alt="hammazahmed2105" /> </p>
 
-- <b>Securing Sanofi: Nessus Vulnerability Scan Project</b>
-  - <b>[Vulnerability Scan using Nessus Essentials](https://github.com/HammazAhmed2105/Nessus-Vulnerability-Scan)</b>
-- <b>Hping3 Syn Flood Attack: Sandbox Experiment and Wireshark Analysis</b>
-  - <b>[Attack using Hping3](https://github.com/HammazAhmed2105/Hping3-Attack-and-Analysis-of-Pcap) </b>
-- <b>Research Paper</b>
-  - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammazahmed2105" alt="hammazahmed2105" /></a> </p>
 
-<h2>🤔Malware Analysis Reports</h2>
-- <b>Begiule Soft - Traffic Analysis Exercise</b>
-  - <b>(https://malwareminds.blogspot.com/2023/12/2019-05-02-traffic-analysis-answer-with.html) </b>
-- <b>Steel Coffee - Traffic Analysis Exercise</b>
-  - <b>(https://malwareminds.blogspot.com/2024/01/steelcoffee-traffic-analysis-exercise.html) </b>
-  - <b>BurninCandle- Traffic Analysis Exercise</b>
-  - <b>(https://github.com/HammazAhmed2105/BurninCandlePcapAnalysis) </b>
-  
+- 🔭 I’m currently working on **Security Operation Center Lab**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h2>👨‍💻Certification</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hammaz-ahmed-01005821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammaz-ahmed-01005821a/" height="30" width="40" /></a>
+<a href="https://medium.com/@hammazahmed40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hammazahmed40" height="30" width="40" /></a>
+<a href="/https://mycyberportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mycyberportfolio.netlify.app/" height="30" width="40" /></a>
+</p>
 
-- [CompTIA Security + Certification](https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile)
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
-- [ANZ Australia Cyber Security Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf)
-- [Google Data Analytics)](https://www.coursera.org/account/accomplishments/professional-cert/679HEM494MAY)
-- [SQL for Data Science)](https://www.coursera.org/account/accomplishments/verify/83AXFG3TRPPN)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammazahmed2105&show_icons=true&locale=en&layout=compact" alt="hammazahmed2105" /></p>
 
-<h2>📺LABS</h2>
-
-  - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
-  - <b>[Tcp-Dump Lab](https://github.com/HammazAhmed2105/TCPDUMP) </b>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/hammaz-ahmed-01005821a/
-
-[<img align="left" alt="YourBlog | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
-
-[blog]: https://cyberasabeginner.blogspot.com/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammazahmed2105&show_icons=true&locale=en" alt="hammazahmed2105" /></p>
