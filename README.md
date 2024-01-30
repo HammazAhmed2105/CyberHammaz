@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammaz Ahmed</h1>
-<h3 align="center">A passionate Cybersecurity Professional and student who is currently pursuing my Masters in Cybersecurity from Saint Louis University and my expected graduation date is May 2025</h3>
+<h3 align="center">I am an enthusiastic cybersecurity professional and student actively working towards a Master's degree in Cybersecurity at Saint Louis University, with an anticipated graduation date in May 2025.</h3>
 
 - 🔭 I’m currently working on **Security Operation Center Lab**
 
