@@ -7,6 +7,7 @@
 
 - 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
 - 👨‍💻 Checkout my Resume []
+- 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
 - ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
