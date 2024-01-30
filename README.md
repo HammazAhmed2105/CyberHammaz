@@ -11,7 +11,6 @@
 
 - 📝 I regularly write articles on **Cybersecurity,InfoSec,Linux,Phishing Analysis**
 
-- 📫 How to reach me **hammazahmed40@gmail.com**
 
 - ⚡ Fun fact **Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended**
 - <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -47,6 +46,8 @@
 <a href="https://medium.com/@hammazahmed40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hammazahmed40" height="30" width="40" /></a>
 <a href="/https://mycyberportfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mycyberportfolio.netlify.app/" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **hammazahmed40@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
