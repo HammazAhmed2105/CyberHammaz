@@ -6,11 +6,13 @@
 - 🌱 I’m  **CompTIA Security + Certified**
 
 - 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
-- 👨‍💻 Checkout my Resume [https://drive.google.com/file/d/1QMIHP62jR0rY4qziLnUpAkjqohCa6iDe/view?usp=drive_link](https://drive.google.com/file/d/1QMIHP62jR0rY4qziLnUpAkjqohCa6iDe/view?usp=drive_link)
+- 👨‍💻 Checkout my Resume [https://github.com/HammazAhmed2105/Resume_](https://github.com/HammazAhmed2105/Resume_)
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
+
 - ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
+
 - 🤔 Here is my portfolio, presented in website format [https://mycyberportfolio.netlify.app/](https://mycyberportfolio.netlify.app/)
 
 - 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
