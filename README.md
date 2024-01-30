@@ -5,12 +5,12 @@
 
 - 🌱 I’m  **CompTIA Security + Certified**
 
-- 🤝 I’m currently working on my **Blue Team Level 1 Certification**
+- 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
 - 👨‍💻 Checkout my Resume []
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
 - ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
-- 📫 Here is my portfolio, presented in website format [https://mycyberportfolio.netlify.app/](https://mycyberportfolio.netlify.app/)
+- 🤔 Here is my portfolio, presented in website format [https://mycyberportfolio.netlify.app/](https://mycyberportfolio.netlify.app/)
 
 - 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
 
