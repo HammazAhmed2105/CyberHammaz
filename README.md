@@ -8,9 +8,9 @@
 - 🤝 I’m currently working on my **Blue Team Level 1 Certification**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
-- ⚡ My artiles on CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
+- ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
 
-- 📝 I regularly write articles on **Cybersecurity,InfoSec,Linux,Phishing Analysis**
+- 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
 
 
 - ⚡ Fun fact **Did you know that the term 'firewall' originally referred to physical barriers designed to prevent the spread of fires in buildings? Pun Intended**
