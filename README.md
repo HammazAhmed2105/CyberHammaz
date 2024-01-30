@@ -9,7 +9,7 @@
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
 
-- 📝 I regularly write articles on [Cybersecurity,Infosec](Cybersecurity,Infosec)
+- 📝 I regularly write articles on **Cybersecurity,InfoSec,Linux,Phishing Analysis**
 
 - 📫 How to reach me **hammazahmed40@gmail.com**
 
