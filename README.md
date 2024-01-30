@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Security Operation Center Lab**
 
-- 🌱 I’m currently learning **Autopsy, Digital Forensics**
+- 🌱 I’m  **CompTIA Security + Certified**
 
 - 🤝 I’m currently working on my **Blue Team Level 1 Certification**
 
