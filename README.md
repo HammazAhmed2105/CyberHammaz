@@ -6,7 +6,7 @@
 - 🌱 I’m  **CompTIA Security + Certified**
 
 - 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
-- 👨‍💻 Checkout my Resume [resume](https://drive.google.com/file/d/1QMIHP62jR0rY4qziLnUpAkjqohCa6iDe/view)
+- 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1QMIHP62jR0rY4qziLnUpAkjqohCa6iDe/view)
 
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
