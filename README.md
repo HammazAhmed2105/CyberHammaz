@@ -2,7 +2,7 @@
 <h3 align="center">I am an enthusiastic cybersecurity professional and student actively working towards a Master's degree in Cybersecurity at Saint Louis University, with an anticipated graduation date in May 2025.</h3>
 
 - 🔭 I’m currently working on building a **Security Operation Center Lab**
-- - 👨‍💻 DDOS Attack Report [Resume](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
+- 👨‍💻 [DDOS Attack Report](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
 
 - 🌱 I’m  **CompTIA Security + Certified**
 
