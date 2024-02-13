@@ -59,5 +59,5 @@
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://tryhackme.com/Oppai36/badges/terminaled" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/A06pbxx.jpeg" alt="python" width="40" height="40"/> </a>
    <a href="https://tryhackme.com/Oppai36/badges/phishing" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ScyYjCq.jpeg" alt="python" width="40" height="40"/> </a>
-  <script src="https://tryhackme.com/badge/2536563"></script>
+   <a href="https://tryhackme.com/Oppai36/badges/ohsint" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/FQ9Ty9L.png" alt="python" width="40" height="40"/> </a>
 </p>
