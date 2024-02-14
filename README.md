@@ -42,6 +42,7 @@
 
   - <b>[Recon-ng lab](https://github.com/HammazAhmed2105/Recon-ng-Lab) </b>
   - <b>[Tcp-Dump Lab](https://github.com/HammazAhmed2105/TCPDUMP) </b>
+   - <b>[Credential Harvesting Lab](https://github.com/HammazAhmed2105/Credential-Harvesting) </b>
 
 
 <h3 align="left">Connect with me:</h3>
