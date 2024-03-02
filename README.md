@@ -5,8 +5,9 @@
 - 👨‍💻 [DDOS Attack Report](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
 
 - 🌱 I’m  **CompTIA Security + Certified**
+- 📝 I'm **Blue Team Level 1 Certified**
 
-- 🤝 I’m currently preparing for my **Blue Team Level 1 Certification**
+- 🤝 I’m currently preparing for my **Certified Cyber Defender Certification**
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1QMIHP62jR0rY4qziLnUpAkjqohCa6iDe/view)
 
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
