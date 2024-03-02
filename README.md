@@ -64,4 +64,5 @@
    <a href="https://tryhackme.com/Oppai36/badges/phishing" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ScyYjCq.jpeg" alt="python" width="40" height="40"/> </a>
    <a href="https://tryhackme.com/Oppai36/badges/ohsint" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/FQ9Ty9L.png" alt="python" width="40" height="40"/> </a>
   <a href="https://tryhackme.com/Oppai36/badges/wireshark" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/W3p8i1a.png" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rGcI3Ta.png" alt="python" width="40" height="40"/> </a>
 </p>
