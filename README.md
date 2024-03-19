@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building a **Security Operation Center Lab**
 - 👨‍💻 [DDOS Attack Report](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
-- :satisfied: I have completed more than 60 rooms in Try Hack Me, putting me in the Top 5%.
+- :satisfied: I have completed more than 60 rooms in **Try Hack Me**, putting me in the **Top 5%**.
 - 🌱 I’m  **CompTIA Security + Certified**
 - 📝 I'm **Blue Team Level 1 Certified**
 
