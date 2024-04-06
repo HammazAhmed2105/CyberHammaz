@@ -7,7 +7,7 @@
 - 🌱 I’m  **CompTIA Security + Certified**
 - 📝 I'm **Blue Team Level 1 Certified**
 
-- 🤝 I’m currently preparing for my **Certified Cyber Defender Certification**
+- 🤝 I’m currently preparing for my **CDSA(Certified Defensive Security Analyst Certification by HackTheBox**
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1l8Fl2qzhS1_aA-iySht2iEcixc3Xw3LM/view?usp=sharing)
 
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
@@ -15,8 +15,6 @@
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
 
 - ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
-
-- 🤔 Here is my portfolio, presented in website format [https://mycyberportfolio.netlify.app/](https://mycyberportfolio.netlify.app/)
 
 - 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
 
