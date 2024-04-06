@@ -33,7 +33,10 @@
 
 <h2>👨‍💻Certification</h2>
 
-- [Blue Team Level 1](https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url)
+- 
+<a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url">
+  <img src="blob:https://imgur.com/08245ada-070f-4865-8377-254fb52fa9b1" alt="Blue Team Level 1 Certification Badge">
+</a>
 - [CompTIA Security + Certification](https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
 - [ANZ Australia Cyber Security Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf)
