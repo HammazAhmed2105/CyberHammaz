@@ -7,7 +7,7 @@
 - 🌱 I’m  **CompTIA Security + Certified**
 - 📝 I'm **Blue Team Level 1 Certified**
 
-- 🤝 I’m currently preparing for my **CDSA(Certified Defensive Security Analyst Certification by HackTheBox**
+- 🤝 I’m currently preparing for my **CDSA(Certified Defensive Security Analyst) Certification by HackTheBox**
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1l8Fl2qzhS1_aA-iySht2iEcixc3Xw3LM/view?usp=sharing)
 
 - 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
