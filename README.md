@@ -53,6 +53,8 @@
 - 📫 How to reach me **hammazahmed40@gmail.com**
 
 <h3 align="left">Languages,Tools, and Badges:</h3>
+<a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rGcI3Ta.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rGcI3Ta.png" alt="python" width="40" height="40"/> </a>
 <p align="left"> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Nessus_symbol.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" alt="python" width="40" height="40"/> </a>
@@ -60,5 +62,5 @@
    <a href="https://tryhackme.com/Oppai36/badges/phishing" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/ScyYjCq.jpeg" alt="python" width="40" height="40"/> </a>
    <a href="https://tryhackme.com/Oppai36/badges/ohsint" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/FQ9Ty9L.png" alt="python" width="40" height="40"/> </a>
   <a href="https://tryhackme.com/Oppai36/badges/wireshark" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/W3p8i1a.png" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rGcI3Ta.png" alt="python" width="40" height="40"/> </a>
+  
 </p>
