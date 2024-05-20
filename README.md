@@ -8,7 +8,7 @@
 - 🤝 I’m currently preparing for my CCNA certification.
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1l8Fl2qzhS1_aA-iySht2iEcixc3Xw3LM/view?usp=sharing)
 
-- 📝 I'm proficient in **Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
+- 📝 I'm proficient in **Threat Hunting with Elastic and Splunk, Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
 
