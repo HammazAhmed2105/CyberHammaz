@@ -29,6 +29,7 @@
 
 <h2>👨‍💻Certification</h2>
 
+- [CDSA HacktheBox](https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url)
 - [Blue Team Level 1](https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url)
 - [CompTIA Security + Certification](https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
