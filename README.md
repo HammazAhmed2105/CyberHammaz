@@ -54,6 +54,7 @@
 <h3 align="left">Languages,Tools, and Badges:</h3>
 <a href="https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Y5Qh33n.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rGcI3Ta.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.credly.com/badges/0b37169c-4ca1-4df2-9f06-4d2958bc3802/public_url" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/tAO1w9A.png" alt="python" width="40" height="40"/> </a>
 <p align="left"> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Nessus_symbol.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" alt="python" width="40" height="40"/> </a>
