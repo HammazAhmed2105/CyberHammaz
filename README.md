@@ -27,13 +27,16 @@
 - <b>Research Paper</b>
   - <b>[Research Paper on Cyber Kill Chain](https://github.com/HammazAhmed2105/Research-Paper-on-Cyber-Kill-Chain)</b>
 
-<h2>👨‍💻Certification</h2>
-- [CDSA HacktheBox](https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url)
-- [Blue Team Level 1](https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url)
-- [CompTIA Security + Certification](https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile)
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF)
-- [ANZ Australia Cyber Security Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf)
-- [Google Data Analytics)](https://www.coursera.org/account/accomplishments/professional-cert/679HEM494MAY)
+<h2>👨‍💻 Certifications</h2>
+<ul>
+    <li><a href="https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url" target="_blank">CDSA HacktheBox</a></li>
+    <li><a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank">Blue Team Level 1</a></li>
+    <li><a href="https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile" target="_blank">CompTIA Security+ Certification</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF" target="_blank">Google Cybersecurity Professional Certificate</a></li>
+    <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_hfSS2tgaFpa6e8Cey_1697145808132_completion_certificate.pdf" target="_blank">ANZ Australia Cyber Security Management</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/professional-cert/679HEM494MAY" target="_blank">Google Data Analytics</a></li>
+</ul>
+
 
 <h2>📺LABS</h2>
 
