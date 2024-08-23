@@ -4,15 +4,14 @@
 - 🔭 I’m currently working on building a **Security Operation Center Lab**
 - 👨‍💻 [DDOS Attack Report](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
 - :satisfied: I have completed more than 60 rooms in **Try Hack Me**, putting me in the **Top 5%**.
-- 🌱 I’m  certified in **CompTIA Security +**, **Blue Team Level 1 Certified**, & **CDSA by HackTheBox**
+- 🌱 I’m  certified in **CompTIA Security +**,**Blue Team Level 1 Certified**, & **CDSA by HackTheBox**
+- 👨‍💻 I am also a **Cisco Certified Network Associate**
 - 🤝 I’m currently preparing for my CCNA certification.
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1l8Fl2qzhS1_aA-iySht2iEcixc3Xw3LM/view?usp=sharing)
 
 - 📝 I'm proficient in **Threat Hunting with Elastic and Splunk, Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
 - 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
-
-- ⚡ My CTF Writeups [https://cyberasabeginner.blogspot.com/](https://cyberasabeginner.blogspot.com/)
 
 - 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
 
@@ -29,7 +28,8 @@
 
 <h2>👨‍💻 Certifications</h2>
 <ul>
-    <li><a href="https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url" target="_blank">CDSA HacktheBox</a></li>
+   <li><a href="https://www.credly.com/badges/cc369c2b-6a3b-4def-b399-96b7e47a73b4/public_url" target="_blank">CCNA</a></li>  
+  <li><a href="https://www.credly.com/badges/73bee53f-61c6-4f6b-ab69-fd8bfd5abf96/public_url" target="_blank">CDSA HacktheBox</a></li>
     <li><a href="https://www.credly.com/badges/0a7ba974-2e32-40e1-8f5c-4d8560092365/public_url" target="_blank">Blue Team Level 1</a></li>
     <li><a href="https://www.credly.com/badges/8468c3e4-0f42-41b6-b6b0-777a3f9c5cb4/linked_in_profile" target="_blank">CompTIA Security+ Certification</a></li>
     <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V6FHRXRDMHKF" target="_blank">Google Cybersecurity Professional Certificate</a></li>
