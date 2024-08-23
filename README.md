@@ -6,7 +6,7 @@
 - :satisfied: I have completed more than 60 rooms in **Try Hack Me**, putting me in the **Top 5%**.
 - 🌱 I’m  certified in **CompTIA Security +**,**Blue Team Level 1 Certified**, & **CDSA by HackTheBox**
 - 👨‍💻 I am also a **Cisco Certified Network Associate**
-- 🤝 I’m currently preparing for my CCNA certification.
+- 🤝 I’m currently preparing for my CYSA+ certification.
 - 👨‍💻 Checkout my [Resume](https://drive.google.com/file/d/1l8Fl2qzhS1_aA-iySht2iEcixc3Xw3LM/view?usp=sharing)
 
 - 📝 I'm proficient in **Threat Hunting with Elastic and Splunk, Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
