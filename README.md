@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hammaz Ahmed</h1>
 <h3 align="center">I am an enthusiastic cybersecurity professional and student actively working towards a Master's degree in Cybersecurity at Saint Louis University, with an anticipated graduation date in May 2025.</h3>
 
-- 🔭 I’m currently working on building a **Security Operation Center Lab**
+- 🔭 I’m currently working on building a [**Enterprise Networking Project using CISCO Packet Tracer**](https://github.com/HammazAhmed2105/Networking-Packet-Tracer-Labs)
+
 - 👨‍💻 [DDOS Attack Report](https://github.com/HammazAhmed2105/DDOS-Attack-Report)
 - :satisfied: I have completed more than 60 rooms in **Try Hack Me**, putting me in the **Top 5%**.
 - 🌱 I’m  certified in **CompTIA Security +**,**Blue Team Level 1 Certified**, & **CDSA by HackTheBox**
