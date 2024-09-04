@@ -12,8 +12,6 @@
 
 - 📝 I'm proficient in **Threat Hunting with Elastic and Splunk, Wireshark, Digital Forensics, Nessus, Kali Linux, and much more**
 
-- 👨‍💻 All my Malware Analysis reports [https://malwareminds.blogspot.com/](https://malwareminds.blogspot.com/)
-
 - 📝 Dont Forget to checkout my Medium [https://medium.com/@hammazahmed40](https://medium.com/@hammazahmed40)
 
 
